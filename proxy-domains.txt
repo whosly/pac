@@ -15,6 +15,7 @@ bing.net
 bingapis.com
 live.com
 stackoverflow.com
+tolans.com
 wikipedia.org
 godaddy.com
 cloudflare.com
