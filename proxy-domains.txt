@@ -1,8 +1,9 @@
 google.com.hk
-ent.com
-youtube.com
 googlevideo.com
 deepmind.google
+notebooklm.google
+ent.com
+youtube.com
 ytimg.com
 github.com
 github.io
